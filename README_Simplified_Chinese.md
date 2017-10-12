@@ -25,10 +25,14 @@ Written in vanilla javascript, works with anything, anywhere.
 
 
 >translate in simplified chinese
+
 >前言
-几乎每一个打的单页应用或者项目也包含日期和时间的输出。然而，还是会有一些选择上的限制，如果你更喜欢保持你项目的依赖并且远离那些繁重的框架比如说Jquery，或者说bootstrap。
+
+>几乎每一个打的单页应用或者项目也包含日期和时间的输出。然而，还是会有一些选择上的限制，如果你更喜欢保持你项目的依赖并且远离那些繁重的框架比如说Jquery，或者说bootstrap。
+
+
 >令我心惊肉跳的现实是我原来也不得不载入300kb大小的jQuery和Jquery UI或者是挂上bootstrap而仅仅只是为了去实现一个日历，所以，我开发了这个功能强大的[日历][时间]选择器，它易于使用，并且看起来在出离于前文提到的框架之外也表现得不错。
->这个选择器是以寻常的的JavaScript语言编写的，并且能够在任何地方工作。
+这个选择器是以寻常的的JavaScript语言编写的，并且能够在任何地方工作。
 
 
 
